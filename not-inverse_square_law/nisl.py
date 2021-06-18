@@ -17,7 +17,7 @@ def sim(T, dt = .001):
         tt.append(t)
         vv.append(v)
         dd.append(d)
-    print('terminal:', v, d)
+    print('terminal:', t, v, d)
     
     plt.plot(tt, vv)
     plt.xlabel('time (s)')

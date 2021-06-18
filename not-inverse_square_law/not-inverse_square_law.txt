@@ -38,17 +38,19 @@ where //d// is the distance between the two balls, //f// is the resulting repuls
 ||= 5 m ||= 10670 N ||= a compact car ||
 ||= 20 m ||= 1.7 × 10^^5^^ N ||= ??? ||
 
-Suppose that a clip was holding the two balls in contact. If the clip was to be removed at t = 0 s and SCP-XXXX was allowed to freely accelerate, then 
-
+Computer simulations of SCP-XXXX under free acceleration show alarming results. Suppose that a clip was holding the two balls in contact. If the clip was to be removed at //t// = 0 s and SCP-XXXX was allowed to freely accelerate, then at //t// = 0.135 s SCP-XXXX starts to gain significant velocity. The high velocity quickly increases the distance, which in turns amplifies the repulsive force by many folds. By //t// = 0.136 s, the velocity has risen to 3.4 × 10^^198^^ m/s and the distance 6.7 × 10^^194^^ m. Afterwards (//t// > 0.136 s), unmanageable overflow immediately crashes any simulation attempts. The figure below shows the simulated trajectory up to //t// = 0.136 s. 
 [[include component:image-block-responsive
 | name=https://i.loli.net/2021/06/18/ACgutl1BMRcQJiL.png
-| caption=Free acceleration
+| caption=Free acceleration, distance against time. 
 | width=300px]]
 
+**Addendum:** 
 
+[[collapsible show="+ [show] Log: initial procurement" hide="- [hide] Log: initial procurement"]]
+    The Foundation found SCP-XXXX during a sweep at ████████████ on Apr. ██, 2021 along with other abnormal objects including SCP-████, SCP-████, and SCP-████. Field agents reported no apparent anomolies related to SCP-XXXX other than a faint repulsive force when they handled SCP-XXXX-0 and SCP-XXXX-1. During the transportation to site-██, SCP-XXXX happened to be contained in a 3 cm-by-3 cm plastic bag. 
+    SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of SCP-XXXX's behavioral resemblance to a //magnetic monopole//. However, most of the researchers
+[[/collapsible]]
 
-
-**Addendum:** [Optional additional paragraphs]
 
 [[footnoteblock]]
 
