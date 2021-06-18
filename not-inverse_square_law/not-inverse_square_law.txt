@@ -1,0 +1,59 @@
+'''
+researcher ... expressed interest
+locker incident
+exact weight and force scheme
+    constant easter egg
+if some distance, then how much force, equivalent to ...
+orbital release plan
+    linear tidal force
+    But no, electric field
+    can we release it far away?
+        speed: tripled, electric field: invers square law. 
+        end-of-the-universe!
+conclusion: needs to be forever contained
+'''
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+**Item #:** SCP-XXXX
+
+**Object Class:** --safe-- Keter
+
+**Special Containment Procedures:** SCP-XXXX is contained in a locker whose diagonal length is no longer than 5cm. 
+
+**Description:** 
+SCP-XXXX is a pair of identical metal balls, labeled SCP-XXXX-0 and SCP-XXXX-1. The diameter of each ball is 1.928 cm and the weight is 34.0611534 g. There is always a repulsive force between the two balls. 
+
+The anomoly of SCP-XXXX lies in how the repulsive force responds to the distance between the two balls. Unlike most physical forces which follow the inverse square law, SCP-XXXX follows a not-inverse square law - the repulsive force is proportional to the //square// of the distance between the two balls: 
+
+//f// = //k// × //d//^^2^^
+where //d// is the distance between the two balls, //f// is the resulting repulsive force, and //k// is a constant number. Foundation measurements have shown that //k// = 426.7998 ± 0.0001 N/m^^2^^. 
+
+||~ distance ||~ repulsive force ||~ equivalent weight ||
+||= 1.928 cm ||= 0.16 N ||= a tablespoon ||
+||= 5 cm ||= 1.07 N ||= half cup of water ||
+||= 1 m ||= 427 N ||= a 15-year-old girl ||
+||= 5 m ||= 10670 N ||= a compact car ||
+||= 20 m ||= 1.7 × 10^^5^^ N ||= ??? ||
+
+Suppose that a clip was holding the two balls in contact. If the clip was to be removed at t = 0 s and SCP-XXXX was allowed to freely accelerate, then 
+
+[[include component:image-block-responsive
+| name=https://i.loli.net/2021/06/18/ACgutl1BMRcQJiL.png
+| caption=Free acceleration
+| width=300px]]
+
+
+
+
+**Addendum:** [Optional additional paragraphs]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-XXXW]]] | SCP-XXXX | [[[SCP-XXXY]]] >>
+[[/=]]
+[[/div]]
