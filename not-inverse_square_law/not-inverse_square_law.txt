@@ -1,15 +1,12 @@
 '''
 researcher ... expressed interest
 locker incident
-exact weight and force scheme
-    constant easter egg
-if some distance, then how much force, equivalent to ...
+kindetic energy transfer is destructive
 orbital release plan
+    "Dr. xxx's draft"
     linear tidal force
     But no, electric field
-    can we release it far away?
-        speed: tripled, electric field: invers square law. 
-        end-of-the-universe!
+cannot break it
 conclusion: needs to be forever contained
 '''
 
@@ -21,7 +18,7 @@ conclusion: needs to be forever contained
 
 **Object Class:** --safe-- Keter
 
-**Special Containment Procedures:** SCP-XXXX is contained in a locker whose diagonal length is no longer than 5cm. 
+**Special Containment Procedures:** SCP-XXXX should be contained in a locker whose diagonal length is no longer than 6 cm. 
 
 **Description:** 
 SCP-XXXX is a pair of identical metal balls, labeled SCP-XXXX-0 and SCP-XXXX-1. The diameter of each ball is 1.928 cm and the weight is 34.0611534 g. There is always a repulsive force between the two balls. 
@@ -33,12 +30,12 @@ where //d// is the distance between the two balls, //f// is the resulting repuls
 
 ||~ distance ||~ repulsive force ||~ equivalent weight ||
 ||= 1.928 cm ||= 0.16 N ||= a tablespoon ||
-||= 5 cm ||= 1.07 N ||= half cup of water ||
+||= 4.072 cm ||= 0.71 N ||= a cupcake ||
 ||= 1 m ||= 427 N ||= a 15-year-old girl ||
 ||= 5 m ||= 10670 N ||= a compact car ||
 ||= 20 m ||= 1.7 × 10^^5^^ N ||= ??? ||
 
-Computer simulations of SCP-XXXX under free acceleration show alarming results. Suppose that a clip was holding the two balls in contact. If the clip was to be removed at //t// = 0 s and SCP-XXXX was allowed to freely accelerate, then at //t// = 0.135 s SCP-XXXX starts to gain significant velocity. The high velocity quickly increases the distance, which in turns amplifies the repulsive force by many folds. By //t// = 0.136 s, the velocity has risen to 3.4 × 10^^198^^ m/s and the distance 6.7 × 10^^194^^ m. Afterwards (//t// > 0.136 s), unmanageable overflow immediately crashes any simulation attempts. The figure below shows the simulated trajectory up to //t// = 0.136 s. 
+Computer simulations of SCP-XXXX under free acceleration show alarming results. Suppose that some glue was holding the two balls in contact. If the glue was to be removed at //t// = 0 s and SCP-XXXX was allowed to freely accelerate, then at //t// = 0.135 s SCP-XXXX starts to gain significant velocity. The high velocity quickly increases the distance, which in turns amplifies the repulsive force by many folds. By //t// = 0.136 s, the velocity has risen to 3.4 × 10^^198^^ m/s and the distance 6.7 × 10^^194^^ m. Afterwards (//t// > 0.136 s), unmanageable overflow immediately crashes any simulation attempts. The figure below shows the simulated trajectory up to //t// = 0.136 s. 
 [[include component:image-block-responsive
 | name=https://i.loli.net/2021/06/18/ACgutl1BMRcQJiL.png
 | caption=Free acceleration, distance against time. 
@@ -47,10 +44,22 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
 **Addendum:** 
 
 [[collapsible show="+ [show] Log: initial procurement" hide="- [hide] Log: initial procurement"]]
-    The Foundation found SCP-XXXX during a sweep at ████████████ on Apr. ██, 2021 along with other abnormal objects including SCP-████, SCP-████, and SCP-████. Field agents reported no apparent anomolies related to SCP-XXXX other than a faint repulsive force when they handled SCP-XXXX-0 and SCP-XXXX-1. During the transportation to site-██, SCP-XXXX happened to be contained in a 3 cm-by-3 cm plastic bag. 
-    SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of SCP-XXXX's behavioral resemblance to a //magnetic monopole//. However, most of the researchers
+    The Foundation found SCP-XXXX during the 2021 April ██^^██^^ sweep at ████████████ along with other novel objects including SCP-████, SCP-████, and SCP-████. Field agents reported no apparent anomalies related to SCP-XXXX other than a faint repulsive force felt when holding SCP-XXXX-0 and SCP-XXXX-1 in the palm. During its transportation to site-██, SCP-XXXX happened to be contained in a 4 cm-by-4 cm plastic bag. 
+    
+    SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of its behavioral resemblance to //magnetic monopoles//. However, most of the researchers was engaging in other containment projects so experiment sessions with SCP-XXXX were delayed to June 2021. During the two months from April to June, SCP-XXXX was to be temporarily contained in a standard bullet-proof locker. 
 [[/collapsible]]
 
+[[collapsible show="+ [show] Incident: Locker breach" hide="- [hide] Incident: Locker breach"]]
+    76 hours after containing SCP-XXXX in the bullet-proof locker, a very loud noise originating from that locker was reported by site-██'s sound surveillance system. 
+    
+    The response team on duty arrived at the locker and observed no structural damage to the locker on the outside. According to records, the locker had three vertically stacked cells. The upper cell and the lower cell were empty, and the middle cell contained SCP-XXXX. The locker had no windows so the team applied acoustic resonance imaging to probe the inside of the locker. 
+    
+    Acoustic resonance imaging showed that the two plates separating the three cells had been broken; SCP-XXXX was at two diagonally opposing corners of the locker; and these locker corners were under 600 N of stress. The response team inferred that SCP-XXXX's repulsive force increased over time and immediately alarmed the site overseer. Three engineers were gathered on-site and a re-containment expert panel was assembled for remote support. Meanwhile, SCP-XXXX's object class, //safe//, was revoked; new object class pending. 
+    
+    Opening the locker door would let out one instance of SCP-XXXX so the engineer team first welded the door shut. The locker was then reinforced by additional external structures and the engineers started working on melting the center of the locker door for an opening. Acoustic resonanced imaging was applied every other minute to monitor the repulsive force, but no change in the force magnitude was observed throughout the process. 
+    
+    The locker cell designated to SCP-XXXX was 15 cm (depth) by 20 cm (width) by 120 cm (height). Three levels. plastic bag. plastic deformation
+[[/collapsible]]
 
 [[footnoteblock]]
 
