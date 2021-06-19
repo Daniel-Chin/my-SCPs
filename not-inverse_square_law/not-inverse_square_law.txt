@@ -56,7 +56,9 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     Acoustic resonance imaging showed that the two plates separating the three cells had been broken; SCP-XXXX was at two diagonally opposing corners of the locker; and these locker corners were under 600 N of stress. The response team inferred that SCP-XXXX's repulsive force increased over time and immediately alarmed the site overseer. Three engineers were gathered on-site and a re-containment expert panel was assembled for remote support. Meanwhile, SCP-XXXX's object class, //safe//, was revoked; new object class pending. 
     
-    Opening the locker door would let out one instance of SCP-XXXX so the engineer team first welded the door shut. The locker was then reinforced by additional external structures and the engineers started working on melting the center of the locker door for an opening. Acoustic resonanced imaging was applied every other minute to monitor the repulsive force, but no change in the force magnitude was observed throughout the process. 
+    Opening the locker door would let out one instance of SCP-XXXX, so the engineer team welded the door shut. The locker was then reinforced by additional external structures. The engineers started working on melting the center of the locker door for an opening. The re-containment expert panel instructed them to monitor the repulsive force via acoustic resonanced imaging every other minute, but no change in the force magnitude was observed throughout the process. 
+    
+    After 26 minutes of work, the team obtained an access hole of sufficient size. Visual inspection inside the locker confirmed the results from acoustic resonanced imaging. 
     
     The locker cell designated to SCP-XXXX was 15 cm (depth) by 20 cm (width) by 120 cm (height). Three levels. plastic bag. plastic deformation
 [[/collapsible]]
