@@ -1,7 +1,4 @@
 '''
-researcher ... expressed interest
-locker incident
-kindetic energy transfer is destructive
 orbital release plan
     "Dr. xxx's draft"
     linear tidal force
@@ -43,25 +40,55 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
 
 **Addendum:** 
 
-[[collapsible show="+ [show] Log: initial procurement" hide="- [hide] Log: initial procurement"]]
+[[collapsible show="+ [show] Log: initial procurement" hide="- [hide] **Log: initial procurement**"]]
     The Foundation found SCP-XXXX during the 2021 April ██^^██^^ sweep at ████████████ along with other novel objects including SCP-████, SCP-████, and SCP-████. Field agents reported no apparent anomalies related to SCP-XXXX other than a faint repulsive force felt when holding SCP-XXXX-0 and SCP-XXXX-1 in the palm. During its transportation to site-██, SCP-XXXX happened to be contained in a 4 cm-by-4 cm plastic bag. 
     
     SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of its behavioral resemblance to //magnetic monopoles//. However, most of the researchers was engaging in other containment projects so experiment sessions with SCP-XXXX were delayed to June 2021. During the two months from April to June, SCP-XXXX was to be temporarily contained in a standard bullet-proof locker. 
 [[/collapsible]]
 
-[[collapsible show="+ [show] Incident: Locker breach" hide="- [hide] Incident: Locker breach"]]
-    76 hours after containing SCP-XXXX in the bullet-proof locker, a very loud noise originating from that locker was reported by site-██'s sound surveillance system. 
+[[collapsible show="+ [show] Event log: Locker incident" hide="- [hide] **Event log: Locker incident**"]]
+    The following events are recroded on April 28^^th^^, 2021. 
     
-    The response team on duty arrived at the locker and observed no structural damage to the locker on the outside. According to records, the locker had three vertically stacked cells. The upper cell and the lower cell were empty, and the middle cell contained SCP-XXXX. The locker had no windows so the team applied acoustic resonance imaging to probe the inside of the locker. 
+    **04:33:30**
+    site-██'s sound surveillance system reports a loud sound originating from the bullet-proof locker containing SCP-XXXX. 
     
-    Acoustic resonance imaging showed that the two plates separating the three cells had been broken; SCP-XXXX was at two diagonally opposing corners of the locker; and these locker corners were under 600 N of stress. The response team inferred that SCP-XXXX's repulsive force increased over time and immediately alarmed the site overseer. Three engineers were gathered on-site and a re-containment expert panel was assembled for remote support. Meanwhile, SCP-XXXX's object class, //safe//, was revoked; new object class pending. 
+    **04:34:59**
+    The response team arrived at the locker and observed no structural damage to the locker on the outside. 
     
-    Opening the locker door would let out one instance of SCP-XXXX, so the engineer team welded the door shut. The locker was then reinforced by additional external structures. The engineers started working on melting the center of the locker door for an opening. The re-containment expert panel instructed them to monitor the repulsive force via acoustic resonanced imaging every other minute, but no change in the force magnitude was observed throughout the process. 
+    **04:36:02**
+    The response team applied acoustic resonance imaging to probe the inside of the locker. Results showed that SCP-XXXX was at two diagonally opposing corners of the locker and these locker corners were under 600 N of stress. 
     
-    After 26 minutes of work, the team obtained an access hole of sufficient size. Visual inspection inside the locker confirmed the results from acoustic resonanced imaging. 
+    **04:36:31**
+    Object class "safe" revoked; new object class pending. Locker reinforced externally. Acoustic resonance imaging is applied every other minute to monitor the repulsive force. 
     
-    The locker cell designated to SCP-XXXX was 15 cm (depth) by 20 cm (width) by 120 cm (height). Three levels. plastic bag. plastic deformation
+    **04:55:28**
+    SCP-XXXX safely removed from the locker. Also in the locker was found a 4 cm-by-4 cm plastic bag with a hole in its corner. The plastic bag seems to have gone through a slow process of plastic deformation. 
+    
+    **05:20:44**
+    SCP-XXXX transferred to Engineering Lab 11 for immediate testing. 
 [[/collapsible]]
+
+[[collapsible show="+ [show] Dr. Cun's report" hide="- [hide] **Dr. Cun's report**"]]
+    Date: April 28^^th^^, 2021. 
+    Time: 06:55
+    
+    > Dr. Bin and I conducted testing on SCP-XXXX immediately after its locker incident. Here I summarize our findings. 
+    > 
+    > The repulsive force between the two balls follows a //not-inverse// square law. In other words, the further away are the two balls, the larger is the repulsive force. This is a miraculous behavior in physics, but also unthinkably dangerous. Think about what this means - the kinetic energy of the two balls, in their current state, is stupidly high. If the distance between the balls ever becomes too large, subsequent divergence of the two balls will be beyond anyone's control. 
+    > 
+    > If you release the two balls on the Earth's surface and let them diverge vertically, one ball will easily pierce through the entire Earth, transferring an astronomical amount of kinetic energy during the process. Now, in case the reader is bad at physics, yes, it //is// an end-of-the-world scenario. 
+    > 
+    > Given the tremendous risks associated with these balls, Dr. Bin and I are drafting some neutralization plans. Among those, the //orbital release// solution seems particularly promising to me; it'll probably solve our problem once and for all. Expect our draft to be finished soon. 
+    > 
+    > However, note that we are in need of more tests on SCP-XXXX. What is the ratio between the squared distance and the repulsion force? Does it depend on the body mass? What happens if we chop one ball into two, or dissolve it in acid? Do they interact with normal magnets? This is not for science. We need a more exact description of SCP-XXXX's behaviors in order to model the containment and neutralization procedures. 
+    > 
+    > And by the way, this thing should be Keter. 
+[[/collapsible]]
+
+[[collapsible show="+ [show] Neutralization proposal: Orbital release" hide="- [hide] **Neutralization proposal: Orbital release**"]]
+    
+[[/collapsible]]
+
 
 [[footnoteblock]]
 
