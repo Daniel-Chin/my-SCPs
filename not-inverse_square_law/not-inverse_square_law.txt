@@ -1,7 +1,5 @@
 '''
 orbital release plan
-    "Dr. xxx's draft"
-    linear tidal force
     But no, electric field
 cannot break it
 conclusion: needs to be forever contained
@@ -81,12 +79,40 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     > Given the tremendous risks associated with these balls, Dr. Bin and I are drafting some neutralization plans. Among those, the //orbital release// solution seems particularly promising to me; it'll probably solve our problem once and for all. Expect our draft to be finished soon. 
     > 
     > However, note that we are in need of more tests on SCP-XXXX. What is the ratio between the squared distance and the repulsion force? Does it depend on the body mass? What happens if we chop one ball into two, or dissolve it in acid? Do they interact with normal magnets? This is not for science. We need a more exact description of SCP-XXXX's behaviors in order to model the containment and neutralization procedures. 
-    > 
-    > And by the way, this thing should be Keter. 
+    
+    SCP-XXXX reclassified as //Keter//. 
 [[/collapsible]]
 
 [[collapsible show="+ [show] Neutralization proposal: Orbital release" hide="- [hide] **Neutralization proposal: Orbital release**"]]
+    Authors: Dr. Cun, Dr. Bin, Dr. ████████, and Dr. ████. 
+    Date: May 2^^nd^^, 2021. 
     
+    This neutralization procedure involves three steps: 
+    1. Launch the containment of SCP-XXXX into Earth orbit. 
+    2. Carefully calibrate the relative position between SCP-XXXX-0 and SCP-XXXX-1 so that the release trajectory is tangential to the orbit. 
+    3. Release SCP-XXXX into outer space. 
+    
+    [[include component:image-block-responsive
+    | name=https://i.loli.net/2021/06/19/pLnQX1uHf9WCsjl.jpg
+    | caption=Dr. Cun's sketch, "Orbital Release". 
+    | width=300px]]
+    
+    Soon, both instances of SCP-XXXX will be traveling away from the Earth at the speed of light. (This is the fastest that an SCP can go when you want it to leave.) 
+    
+    The tidal force will increase linearly with regard to the distance, so eventually each instance of SCP-XXXX will be ripped into an expanding line segment of debris. 
+    
+    This neutralization procedure will destroy all things on the path of SCP-XXXX - a straight line in the universe. The impacted bodies will gain a fraction of SCP-XXXX's kinetic energy and travel in a similar direction. Because a fraction of an astronomical number is still astronomical, this will likely widen the zone of total destruction into a cone, or even a horn. 
+    
+    [[include component:image-block-responsive
+    | name=https://i.loli.net/2021/06/19/cGkEZSi5MCyevPQ.jpg
+    | caption=Dr. Bin's sketch, "Sacrificed Zones". 
+    | width=300px]]
+    
+    Given the irreversibility of SCP-XXXX's divergence, we argue that the Foundation's job is to make sure that the Earth is not in a sacrificed zone, instead of trying to contain SCP-XXXX. In conclusion, the orbital release procedure must be taken at the earliest opportunity in order to minimize risks. 
+[[/collapsible]]
+
+[[collapsible show="+ [show] Notice: Orbital release canceled" hide="- [hide] **Notice: Orbital release canceled**"]]
+    The planned launch of SCP-XXXX is canceled due to a recent discovery. 
 [[/collapsible]]
 
 
