@@ -1,10 +1,3 @@
-'''
-orbital release plan
-    But no, electric field
-cannot break it
-conclusion: needs to be forever contained
-'''
-
 [[>]]
 [[module Rate]]
 [[/>]]
@@ -158,6 +151,18 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     As such, if SCP-XXXX were to be released in orbit, its tremendous velocity would generate an electric field over the Earth so strong that ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ In addition, because SCP-XXXX's electromagnetic effects are amplified by distance, the rest of the universe will end up much worse. 
 [[/collapsible]]
 
+[[collapsible show="+ [show] Final decision regarding SCP-XXXX" hide="- [hide] **Final decision regarding SCP-XXXX**"]]
+    Date: June 14^^th^^, 2021. 
+    Released by: O5-██ and O5-██
+    
+    The Foundation has come to conclude that SCP-XXXX is to be indefinitely contained. 
+    
+    Experimentation and neutralization requests related to SCP-XXXX will require direct approval from the O5 council. 
+[[/collapsible]]
+
+[[collapsible show="+ [show] Quote from Dr. Cun" hide="- [hide] **Quote from Dr. Cun**"]]
+    > //They don't want to stay together.//
+[[/collapsible]]
 
 [[footnoteblock]]
 
