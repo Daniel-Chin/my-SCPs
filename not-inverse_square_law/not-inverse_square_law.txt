@@ -11,12 +11,12 @@
 **Description:** 
 SCP-XXXX is a pair of identical metal balls, labeled --SCP-XXXX-0 and SCP-XXXX-1-- SCP-XXXX-L and SCP-XXXX-R. The diameter of each ball is 1.928 cm and the weight is 34.0611534 g. There is always a repulsive force between the two balls. 
 
-The anomoly of SCP-XXXX lies in how the repulsive force responds to the distance between the two balls. Unlike most physical forces which follow the inverse square law, SCP-XXXX follows a not-inverse square law - the repulsive force is proportional to the //square// of the distance between the two balls: 
+The anomoly of SCP-XXXX lies in how the repulsive force responds to the distance between the two balls. Unlike most physical forces that follow the inverse square law, SCP-XXXX follows a not-inverse square law - the repulsive force is proportional to the //square// of the distance between the two balls: 
 
 //f// = //k// × //d//^^2^^
 where //d// is the distance between the two balls, //f// is the resulting repulsive force, and //k// is a constant number. Foundation measurements have shown that //k// = 426.7998 ± 0.0001 N/m^^2^^. 
 
-||~ distance ||~ repulsive force ||~ equivalent weight ||
+||~ distance between two balls ||~ repulsive force ||~ equivalent weight ||
 ||= 1.928 cm ||= 0.16 N ||= a tablespoon ||
 ||= 4.072 cm ||= 0.71 N ||= a cupcake ||
 ||= 1 m ||= 427 N ||= a 15-year-old girl ||
@@ -34,14 +34,14 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
 [[collapsible show="+ [show] Log: initial procurement" hide="- [hide] **Log: initial procurement**"]]
     The Foundation found SCP-XXXX during the 2021 April ██^^██^^ sweep at ████████████ along with other novel objects including SCP-████, SCP-████, and SCP-████. Field agents reported no apparent anomalies related to SCP-XXXX other than a faint repulsive force felt when holding SCP-XXXX-0 and SCP-XXXX-1 in the palm. During its transportation to site-██, SCP-XXXX happened to be contained in a 4cm×4cm plastic bag. 
     
-    SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of its behavioral resemblance to //magnetic monopoles//. However, most of the researchers was engaging in other containment projects so experiment sessions with SCP-XXXX were delayed to June 2021. During the two months from April to June, SCP-XXXX was to be temporarily contained in a standard bullet-proof locker. 
+    SCP-XXXX was classified as **safe**. Several foundation researchers expressed interest in SCP-XXXX because of its behavioral resemblance to //magnetic monopoles//. However, many of the said researchers were engaged in other containment projects so experiment sessions with SCP-XXXX were delayed to June 2021. During the two months from April to June, SCP-XXXX was to be temporarily contained in a designated standard bullet-proof locker. 
 [[/collapsible]]
 
 [[collapsible show="+ [show] Event log: Locker incident" hide="- [hide] **Event log: Locker incident**"]]
-    The following events are recroded on April 28^^th^^, 2021. 
+    The following events were recroded on April 28^^th^^, 2021. 
     
     **04:33:30**
-    site-██'s sound surveillance system reports a loud sound originating from the bullet-proof locker containing SCP-XXXX. 
+    site-██'s sound surveillance system reports a loud noise originating from the bullet-proof locker containing SCP-XXXX. 
     
     **04:34:59**
     The response team arrived at the locker and observed no structural damage to the locker on the outside. 
@@ -50,10 +50,10 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     The response team applied acoustic resonance imaging to probe the inside of the locker. Results showed that SCP-XXXX was at two diagonally opposing corners of the locker and these locker corners were under 600 N of stress. 
     
     **04:36:31**
-    Object class "safe" revoked; new object class pending. Locker reinforced externally. Acoustic resonance imaging is applied every other minute to monitor the repulsive force. 
+    Object class "safe" revoked; new object class pending. Locker reinforced externally. Acoustic resonance imaging was applied every other minute to monitor the repulsive force. 
     
     **04:55:28**
-    SCP-XXXX safely removed from the locker. Also in the locker was found a 4cm×4cm plastic bag with a hole in its corner. The plastic bag seems to have gone through a slow process of plastic deformation. 
+    SCP-XXXX safely removed from the locker. Also in the locker was found a 4cm×4cm plastic bag with a hole in its corner. The plastic bag seemed to have gone through a slow process of plastic deformation before its eventual bursting. 
     
     **05:20:44**
     SCP-XXXX transferred to Engineering Lab 11 for immediate testing. 
@@ -63,15 +63,15 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     Date: April 28^^th^^, 2021. 
     Time: 06:55
     
-    > Dr. Bin and I conducted testing on SCP-XXXX immediately after its locker incident. Here I summarize our findings. 
+    > Dr. Bin and I conducted tests on SCP-XXXX immediately after its locker incident. Here I summarize our findings. 
     > 
-    > The repulsive force between the two balls follows a //not-inverse// square law. In other words, the further away are the two balls, the larger is the repulsive force. This is a miraculous behavior in physics, but also unthinkably dangerous. Think about what this means - the kinetic energy of the two balls, in their current state, is stupidly high. If the distance between the balls ever becomes too large, subsequent divergence of the two balls will be beyond anyone's control. 
+    > The repulsive force between the two balls follows a //not-inverse// square law. In other words, the further away the two balls are, the larger is the repulsive force. This is a miraculous behavior in physics - at the same time an unthinkably dangerous one. Think about what this means - the kinetic energy of the two balls, in their current state, is stupidly high. If the distance between the balls ever becomes too large, subsequent divergence of the two balls will be beyond anyone's control. 
     > 
-    > If you release the two balls on the Earth's surface and let them diverge vertically, one ball will easily pierce through the entire Earth, transferring an astronomical amount of kinetic energy during the process. Now, in case the reader is bad at physics, yes, it //is// an end-of-the-world scenario. 
+    > If you release the two balls on the Earth's surface and let them diverge vertically, the ball going downwards will easily pierce through the entire Earth, transferring an astronomical amount of kinetic energy during the process. Now, in case the reader is wondering, yes, it //is// an end-of-the-world scenario. 
     > 
     > Given the immense risks associated with these balls, Dr. Bin and I are drafting some neutralization plans. Among those, the //orbital release// solution seems particularly promising to me; it'll probably solve our problem once and for all. Expect our draft to be finished soon. 
     > 
-    > However, note that we are in need of more tests on SCP-XXXX. What is the ratio between the squared distance and the repulsion force? Does it depend on the body mass? What happens if we chop one ball into two, or dissolve it in acid? Do they interact with normal magnets? This is not for science. We need a more exact description of SCP-XXXX's behaviors in order to model the containment and neutralization procedures. 
+    > However, note that we are in need of more tests on SCP-XXXX. What is the ratio between the squared distance and the repulsion force? Does it depend on the body mass? What happens if we chop one ball into two, or dissolve it in acid? (I presume the pieces of SCP-XXXX will inherit its anomoly.) We need a more exact description of SCP-XXXX's behaviors in order to model the containment and neutralization procedures. 
     
     SCP-XXXX reclassified as //Keter//. 
 [[/collapsible]]
@@ -94,14 +94,16 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     The tidal force will increase linearly with regard to the distance, so eventually each instance of SCP-XXXX will be ripped into an expanding line segment of debris. 
     
-    This neutralization procedure will destroy all things on the path of SCP-XXXX - a straight line in the universe. The impacted bodies will gain a fraction of SCP-XXXX's kinetic energy and travel in a similar direction. Because a fraction of an astronomical number is still astronomical, this will likely widen the zone of total destruction into a cone, or even a horn. 
+    This neutralization procedure will destroy all things on the path of SCP-XXXX - a straight line in the universe. The impacted bodies will gain a fraction of SCP-XXXX's momentum and travel in a similar direction. Because a fraction of an astronomical number is still astronomical, this will likely widen the zone of total destruction into a cone, or even a horn. 
     
     [[include component:image-block-responsive
     | name=https://i.loli.net/2021/06/19/cGkEZSi5MCyevPQ.jpg
     | caption=Dr. Bin's sketch, "Sacrificed Zones". 
     | width=300px]]
     
-    Given the irreversibility of SCP-XXXX's divergence, we argue that the Foundation's job is to make sure that the Earth is not in a sacrificed zone, instead of trying to contain SCP-XXXX. In conclusion, the orbital release procedure must be taken at the earliest opportunity in order to minimize risks. 
+    Given the irreversibility of SCP-XXXX's divergence, we argue that the Foundation's job is to make sure that the Earth is not in the sacrificed zones, instead of trying to contain SCP-XXXX. 
+    
+    In conclusion, the orbital release procedure must be taken at the earliest opportunity in order to minimize risks. 
 [[/collapsible]]
 
 [[collapsible show="+ [show] Notice: Orbital release canceled" hide="- [hide] **Notice: Orbital release canceled**"]]
@@ -114,7 +116,7 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     Authors: Dr. Bin, Dr. Cun, Dr. ████████, and Dr. ████. 
     Date: May 24^^th^^, 2021. 
     
-    //Abstract:// SCP-XXXX-0 and SCP-XXXX-1 renamed to SCP-XXXX-L and SCP-XXXX-R. SCP-XXXX's movement generates an electric field. SCP-XXXX-L follows the left-hand rule and SCP-XXXX-R follows the right-hand rule. An orbital release of SCP-XXXX will therefore incur catastrophic consequences. 
+    //Abstract:// SCP-XXXX-0 and SCP-XXXX-1 renamed to SCP-XXXX-L and SCP-XXXX-R. SCP-XXXX's movement generates an electric field. SCP-XXXX-L follows the left-hand rule while SCP-XXXX-R follows the right-hand rule. An orbital release of SCP-XXXX will therefore incur catastrophic consequences. 
     
     The experiments reported here took place in a 5m×5m×2.5m Faraday cage. 
     
@@ -128,9 +130,9 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     2.1. When placed near normal magnets, neither SCP-XXXX-0 nor SCP-XXXX-1 displayed interaction with the normal magnets. 
     
-    2.2. When SCP-XXXX-0 or SCP-XXXX-1 was statically placed inside a coil of wires, no current was detected. 
+    2.2. When either SCP-XXXX-0 or SCP-XXXX-1 rests inside a coil of wires, no current was detected. 
     
-    2.3. When we moved SCP-XXXX-0 or SCP-XXXX-1 at 2 cm/s inside the coil, a current was detected in the coil. In terms of the direction of the resulting current, SCP-XXXX-0 followed the left-hand rule while SCP-XXXX-1 followed the right-hand rule. 
+    2.3. When we moved either SCP-XXXX-0 or SCP-XXXX-1 at 2 cm/s inside the coil, a current was detected in the coil. In terms of the direction of the resulting current, SCP-XXXX-0 followed the left-hand rule while SCP-XXXX-1 followed the right-hand rule. 
     
     2.4. When we varied the movement velocity, the current in the coil had a linear response. 
     
@@ -142,13 +144,13 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     //**d**// × //**u**// · ||//**d**//|| · //b// · //i,,LR,,//
     
-    where "×" is the cross product, //**d**// is the displacement vector from SCP-XXXX to the point in space, //**u**// is the velocity vector of SCP-XXXX, //b// is a constant coefficient with unit V·s·m^^-4^^, and //i,,LR,,// is the identity variable that takes -1 for SCP-XXXX-L and 1 for SCP-XXXX-R. 
+    where "×" is the cross product, //**d**// is the displacement vector from SCP-XXXX to that point in space, //**u**// is the velocity vector of SCP-XXXX, //b// is a constant coefficient with unit V·s·m^^-4^^, and //i,,LR,,// is the identity variable that takes -1 for SCP-XXXX-L and 1 for SCP-XXXX-R. 
     
-    Now we can explain why we didn't fry distant star systems when we moved SCP-XXXX around: as long as SCP-XXXX-L and SCP-XXXX-R move //together//, the electric fields generated by them cancel each other out. In fact, the Earth is always carrying SCP-XXXX at a considerable velocity. 
+    Now we can explain why we didn't fry distant star systems when we moved SCP-XXXX around: as long as SCP-XXXX-L and SCP-XXXX-R move //together//, the electric fields they generate will cancel each other out. In fact, the Earth is always carrying SCP-XXXX at a considerable velocity. 
     
-    In contrary, whenever SCP-XXXX-L and SCP-XXXX-R move in oppsite directions, the electric fields they generate will double on top of each other. Suppose SCP-XXXX is placed above your head. If SCP-XXXX-L shoots left and SCP-XXXX-R shoots right, then both of them will exert a forward electric gradient at your head. 
+    In contrary, whenever SCP-XXXX-L and SCP-XXXX-R move in opposite directions, the electric fields they generate will double on top of each other. Suppose SCP-XXXX is placed above your head. If SCP-XXXX-L shoots left and SCP-XXXX-R shoots right, then both of them will exert a forward electric gradient at your head. 
     
-    As such, if SCP-XXXX were to be released in orbit, its tremendous velocity would generate an electric field over the Earth so strong that ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ In addition, because SCP-XXXX's electromagnetic effects are amplified by distance, the rest of the universe will end up much worse. 
+    As such, if SCP-XXXX were to be released in orbit, its tremendous velocity would generate an electric field over the Earth so strong that ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ In addition, because SCP-XXXX's electromagnetic effect increases with regard to distance, the rest of the universe will end up much worse. 
 [[/collapsible]]
 
 [[collapsible show="+ [show] Final decision regarding SCP-XXXX" hide="- [hide] **Final decision regarding SCP-XXXX**"]]
