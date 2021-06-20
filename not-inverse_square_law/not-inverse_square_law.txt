@@ -112,7 +112,16 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
 [[/collapsible]]
 
 [[collapsible show="+ [show] Notice: Orbital release canceled" hide="- [hide] **Notice: Orbital release canceled**"]]
-    The planned launch of SCP-XXXX is canceled due to a recent discovery. 
+    Date: June 2^^nd^^, 2021. 
+    
+    The launch of SCP-XXXX scheduled on June 20^^th^^ is canceled. SCP-XXXX is to be returned to site-██ within 24 hours. The decision is made based on Dr. Bin's recent discovery of SCP-XXXX's electromagnetic properties. Refer to his May 24^^th^^ report for details. 
+[[/collapsible]]
+
+[[collapsible show="+ [show] Dr. Bin's Report" hide="- [hide] **Dr. Bin's Report**"]]
+    Authors: Dr. Bin, Dr. Cun, Dr. ████████, and Dr. ████. 
+    Date: May 24^^th^^, 2021. 
+    
+    
 [[/collapsible]]
 
 
