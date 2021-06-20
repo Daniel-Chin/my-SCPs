@@ -65,7 +65,7 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     > Dr. Bin and I conducted tests on SCP-XXXX immediately after its locker incident. Here I summarize our findings. 
     > 
-    > The repulsive force between the two balls follows a //not-inverse// square law. In other words, the further away the two balls are, the larger is the repulsive force. This is a miraculous behavior in physics - at the same time an unthinkably dangerous one. Think about what this means - the kinetic energy of the two balls, in their current state, is stupidly high. If the distance between the balls ever becomes too large, subsequent divergence of the two balls will be beyond anyone's control. 
+    > The repulsive force between the two balls follows a //not-inverse// square law. In other words, the further away the two balls are, the larger is the repulsive force. This is a miraculous behavior in physics - at the same time an unthinkably dangerous one. Think about what this means - the potential energy the two balls possess, in their current state, is stupidly high. If the distance between the balls ever becomes too large, subsequent divergence of the two balls will be beyond anyone's control. 
     > 
     > If you release the two balls on the Earth's surface and let them diverge vertically, the ball going downwards will easily pierce through the entire Earth, transferring an astronomical amount of kinetic energy during the process. Now, in case the reader is wondering, yes, it //is// an end-of-the-world scenario. 
     > 
