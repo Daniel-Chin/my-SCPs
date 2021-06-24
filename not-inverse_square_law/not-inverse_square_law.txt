@@ -13,8 +13,10 @@ SCP-XXXX is a pair of identical metal balls, labeled --SCP-XXXX-0 and SCP-XXXX-1
 
 The anomoly of SCP-XXXX lies in how the repulsive force responds to the distance between the two balls. Unlike most physical forces that follow the inverse square law, SCP-XXXX follows a not-inverse square law - the repulsive force is proportional to the //square// of the distance between the two balls: 
 
-//f// = //k// × //d//^^2^^
-where //d// is the distance between the two balls, //f// is the resulting repulsive force, and //k// is a constant number. Foundation measurements have shown that //k// = 426.7998 ± 0.0001 N/m^^2^^. 
+[[math]]
+f = k \times d^2
+[[/math]]
+where [[$ d $]] is the distance between the two balls, [[$ f $]] is the resulting repulsive force, and [[$ k $]] is a constant number. Foundation measurements have shown that [[$ k = 426.7998 \pm 0.0001 $]] N/m^^2^^. 
 
 ||~ distance between two balls ||~ repulsive force ||~ equivalent weight ||
 ||= 1.928 cm ||= 0.16 N ||= a tablespoon ||
@@ -142,9 +144,11 @@ Computer simulations of SCP-XXXX under free acceleration show alarming results. 
     
     An electromagnetic model of SCP-XXXX can thus be derived. The movement of SCP-XXXX-L generates an eletric field whose orientation follows Fleming's left-hand rule but whose magnitude increases with the radius. For a given point in space, the potential gradient is
     
-    //**d**// × //**u**// · ||//**d**//|| · //b// · //i,,LR,,//
-    
-    where "×" is the cross product, //**d**// is the displacement vector from SCP-XXXX to that point in space, //**u**// is the velocity vector of SCP-XXXX, //b// is a constant coefficient with unit V·s·m^^-4^^, and //i,,LR,,// is the identity variable that takes -1 for SCP-XXXX-L and 1 for SCP-XXXX-R. 
+    [[math]]
+    \boldsymbol{d} \times \boldsymbol{u} \dot ||\boldsymbol{d}|| \dot b \dot i_\text{LR}
+    [[/math]]
+
+    where "[[$ \times $]]" is the cross product, [[$ boldsymbol{d} $]] is the displacement vector from SCP-XXXX to that point in space, [[$ boldsymbol{u} $]] is the velocity vector of SCP-XXXX, [[$ b $]] is a constant coefficient with unit V·s·m^^-4^^, and [[$ i_\text{LR} $]] is the identity variable that takes [[$ -1 $]] for SCP-XXXX-L and [[$ 1 $]] for SCP-XXXX-R. 
     
     Now we can explain why we didn't fry distant star systems when we moved SCP-XXXX around: as long as SCP-XXXX-L and SCP-XXXX-R move //together//, the electric fields they generate will cancel each other out. In fact, the Earth is always carrying SCP-XXXX at a considerable velocity. 
     
